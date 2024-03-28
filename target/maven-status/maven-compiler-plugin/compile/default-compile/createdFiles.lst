@@ -1,0 +1,10 @@
+bdb\reglas\fsdv\entidades\SeguroDeVida.class
+bdb\reglas\fsdv\servicio\IServicioFactorSeguro.class
+bdb\reglas\fsdv\sesionesDao\SeguroDeVidaImpl.class
+FactorSeguroDeVida.class
+bdb\reglas\fsdv\entidades\SeguroDeVida_.class
+bdb\reglas\fsdv\servicio\ServicioFactorSeguroImpl.class
+bdb\reglas\fsdv\entidades\RespuestaFSdV.class
+bdb\reglas\fsdv\sesionesDao\ISeguroDeVidaDao.class
+bdb\reglas\fsdv\entidades\SolicitudFSdV.class
+bdb\reglas\fsdv\servicio\FactorSeguroDeVidaRS.class
